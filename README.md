@@ -25,4 +25,4 @@ This project analyzes factors that may influence the probability of customer loa
 - The dataset was cleaned for inconsistencies like casing differences and invalid values (e.g., age = 0, children = -1).
 
 ## Author
-Nabilla
+Nabilla Hafsah Caesaredia
